@@ -132,7 +132,7 @@ const Index = () => {
                 <Icon name="Sprout" className="text-white" size={24} />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-green-900">ГородВместе</h1>
+                <h1 className="text-xl font-bold text-green-900">CrowdOn</h1>
                 <p className="text-xs text-green-600">Краудфандинг для города</p>
               </div>
             </div>
