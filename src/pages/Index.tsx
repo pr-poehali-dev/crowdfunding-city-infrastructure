@@ -372,7 +372,7 @@ const Index = () => {
               <CardContent className="pt-6">
                 <div className="space-y-6 text-green-700">
                   <p className="text-lg">
-                    <strong className="text-green-900">ГородВместе</strong> — это платформа краудфандинга, которая объединяет жителей 
+                    <strong className="text-green-900">CrowdOn</strong> — это платформа краудфандинга, которая объединяет жителей 
                     и организации для создания лучшей городской среды.
                   </p>
                   <p>
